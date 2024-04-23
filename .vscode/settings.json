@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "enlaceagenda.h": "c",
+        "stdlib.h": "c",
+        "config.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "functions.h": "c"
+    }
+}
